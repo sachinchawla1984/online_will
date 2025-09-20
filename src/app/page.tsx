@@ -204,7 +204,7 @@ const FreeWillWebsite = () => {
         <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center mb-8">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Blank Will Template - Free Screenshot</h2>
-            <p className="text-gray-600 mb-6">Use your browser&apos;s screenshot tool to capture this form</p>
+            <p className="text-gray-600 mb-6">Use your browsers screenshot tool to capture this form</p>
             <button
               onClick={captureScreenshot}
               className="bg-green-600 text-white px-6 py-3 rounded-lg hover:bg-green-700 transition-colors inline-flex items-center gap-2"
@@ -335,7 +335,7 @@ const FreeWillWebsite = () => {
               </div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Fill & Post</h3>
               <p className="text-gray-600 mb-6">
-                Complete online and we&apos;ll print your will on premium paper and post it directly to your address
+                Complete online and well print your will on premium paper and post it directly to your address
               </p>
               <div className="text-3xl font-bold text-purple-600 mb-6">$39.99</div>
               <ul className="text-left space-y-2 mb-8">
