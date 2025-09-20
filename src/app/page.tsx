@@ -55,7 +55,7 @@ const FreeWillWebsite = () => {
     }));
   };
 
-  const handleBeneficiaryChange = (index, field, value) => {
+  const handleBeneficiaryChange = (index: any, field: any, value: any) => {
     const newBeneficiaries = [...formData.beneficiaries];
     newBeneficiaries[index] = { ...newBeneficiaries[index], [field]: value };
     setFormData(prev => ({
